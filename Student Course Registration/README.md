@@ -74,8 +74,6 @@ The Registrations table uses student_id and course_id as foreign keys to link to
       cd student-course-registration
 
 
-# Student Course Registration System
-
 ## Code Structure
 
 - **Student.java**: Handles student-related operations (e.g., add, view all students).
