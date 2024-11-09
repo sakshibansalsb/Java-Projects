@@ -69,7 +69,7 @@ The Registrations table uses student_id and course_id as foreign keys to link to
 
 ## Getting-Started
 
-  -Clone the Repository
+  - Clone the Repository
       git clone https://github.com/yourusername/student-course-registration.git
       cd student-course-registration
 
